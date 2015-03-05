@@ -2,3 +2,7 @@
 	display: flex;
 	align-items: center;
 }
+#signup_logo{
+	width: 300px;
+	height: 300px;
+}
