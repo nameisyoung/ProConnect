@@ -1,0 +1,15 @@
+
+.bgcontainer{
+	font-family: Verdana, sans-serif;
+	background-color: #C6E2FF;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 30px, 30px, 5px, 100px;
+}
+
+.loginbutton{
+	margin-top: 400px;
+	font-family: Verdana, sans-serif;
+	text-align: center;
+	padding-bottom: 80px
+}
