@@ -11,6 +11,9 @@
 	max-width: 500px;
 	width: auto;
 }
-#signupHeading{
+#signup_heading{
 	padding-bottom: 10px;
+}
+#member_login{
+	font-size: 12px;
 }

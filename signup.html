@@ -21,7 +21,8 @@
     </head>
     <body class="bgcontainer">
         <nav class="navbar navbar-default navbar-static-top">
-            <div class="container-fluid">
+          <div class="navbar-inner">
+            <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -34,17 +35,18 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="#">Log In</a>
+                            <a href="#" id="member_login">Already a member? Log In</a>
                         </li>
                     </ul>
                 </div>
             </div>
+          </div>  
         </nav>
         <img class="img-responsive" id="signup_logo" src="img/logo.png">
         <div class="container" id="signup_container">
             <div class="jumbotron">
                 <h2>Join ProConnect.</h2>
-                <h5 id="signupHeading">Registration is free.<h5>
+                <h5 id="signup_heading">Registration is free.<h5>
                 <form class="form-group">
                     <div class="form-group">
                               <input type="text" class="form-control" id="inputFirstName" placeholder="First Name">
