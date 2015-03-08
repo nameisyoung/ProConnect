@@ -16,8 +16,8 @@
 .bgcontainer{
 	font-family: Verdana, sans-serif;
 	background-color: #D5D5DB;
-	border: 2px solid black;
 	margin: 6px;
+	position: fixed;
 	
 }
 
@@ -28,6 +28,8 @@
     text-align: center;
     
 }
+
 p{
 	text-align: center;
 }
+
